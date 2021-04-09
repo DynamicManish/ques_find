@@ -6,4 +6,8 @@ This is a 'question_finder', what it will do is that It will take inputs, will c
 
 ![image](https://user-images.githubusercontent.com/67814686/113822561-35024b80-979b-11eb-927c-945b96771b13.png)
 
+The time module is later included to this program to make the execution of code in a bit sleepy manner, and to make code more visually appealing!
+
+![image](https://user-images.githubusercontent.com/67814686/114143076-539a4b00-9931-11eb-81cc-181421573cba.png)
+
 I hope you recieved some piece of value from this:)
